@@ -1,11 +1,8 @@
 /*********************************************************************
 
-    Template Name: Pitar
-    Template URI: https://themeforest.net/user/codextree
-    Description: A 'Pitar – Personal Portfolio Html5 Template' is perfect if you like a clean and modern design. This theme is ideal for Agency, Freelancer, Portfolio, and those who need an easy, attractive and effective way to share their work with clients.
-    Author: codextree
+    Author: Success Chukwu
     Version: 1.0
-    Author URI: http://riyad.ninja
+    Author URI: http://cusicon.github.com
 
     Note: All Jquery Plugin
 
